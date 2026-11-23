@@ -1,0 +1,7 @@
+node_modules/
+.next/
+out/
+src/generated/
+public/library/
+*.tsbuildinfo
+.DS_Store

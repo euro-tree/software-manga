@@ -1,0 +1,32 @@
+{
+  "name": "software-manga",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev:watch": "node scripts/dev-watch.mjs",
+    "build": "next build",
+    "lint": "eslint .",
+    "predev": "node scripts/build-library.mjs",
+    "prebuild": "node scripts/build-library.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "chokidar": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "image-size": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
