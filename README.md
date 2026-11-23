@@ -9,3 +9,5 @@
 - Write clear tasks for AI tools 📝
 - Let AI tools do the work 👨‍🎓
 - Review the results, approve them, or request improvements ✅
+
+<img width="1224" height="1285" alt="Comic Guide to Building Software" src="https://github.com/user-attachments/assets/d2e2472f-19ce-44f8-baa3-3a07bf107661" />
