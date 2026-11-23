@@ -1,9 +1,11 @@
 # software-manga
+
 🌳🥭🗂️📖 Software engineering manga 🧑‍🎨🤩🍀 for rising creative developers 🧑‍💻👩🏻‍💻
 
-## what you need to have to build softwares ?
-- creativty 🧑‍🎨
-- read about the new ai techs and how to use it 📰
-- wrtiting tasks for ai 📝
-- let ai tools to do the work 👨‍🏫
-- review the work approve or ask to improve ✅
+## What do you need to build software?
+
+- Creativity 🧑‍🎨
+- Stay informed about new AI technologies and how to use them 📰
+- Write clear tasks for AI tools 📝
+- Let AI tools do the work 👨‍🎓
+- Review the results, approve them, or request improvements ✅
